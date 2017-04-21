@@ -1,0 +1,39 @@
+9
+
+ENHANCEMENT:
+* Use corn graphic
+
+BUG FIX:
+* Fix spelling mistake in icon name
+
+7
+
+ENHANCEMENTS:
+* Ignacio Rodriguez port to gtk3
+
+5
+
+BUG FIX:
+* Fixed initialization bug introduced when restoring custom Yupana
+
+
+4
+
+ENHANCEMENT:
+* Add support for custom designs
+
+3
+
+ENHANCEMENT:
+* Added support for different interpretations of how a Yupana works: base 10,
+  base 20, and based on prime factors.
+
+2
+
+ENHANCEMENTS:
+* Radial gradient (thanks to Manuq)
+* New translations (es)
+
+1
+
+* New project

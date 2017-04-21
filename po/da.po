@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-18 00:33-0500\n"
+"PO-Revision-Date: 2012-12-06 01:34+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Yupana"
+msgstr "Yupana"
+
+#: YupanaActivity.py:102
+msgid "Mode"
+msgstr "Tilstand"
+
+#: YupanaActivity.py:109
+msgid "Custom"
+msgstr "Brugerdefineret"
+
+#: YupanaActivity.py:121
+msgid "Clear the yupana."
+msgstr "Ryd yupanaen."
+
+#: YupanaActivity.py:126 YupanaActivity.py:147 YupanaActivity.py:185
+msgid "decimal mode"
+msgstr "decimal-tilstand"
+
+#: YupanaActivity.py:130 YupanaActivity.py:189
+msgid "base-twenty mode"
+msgstr " grundtal 20-tilstand"
+
+#: YupanaActivity.py:134 YupanaActivity.py:193
+msgid "prime-factor mode"
+msgstr "primfaktor-tilstand"
+
+#: YupanaActivity.py:138 YupanaActivity.py:197
+msgid "Fibonacci mode"
+msgstr "Fibanocci-tilstand"
+
+#: YupanaActivity.py:142 YupanaActivity.py:210
+msgid "custom mode"
+msgstr "brugerdefineret tilstand"
+
+#: YupanaActivity.py:159
+msgid "one row"
+msgstr "én række"
+
+#: YupanaActivity.py:162
+msgid "two row"
+msgstr "to rækker"
+
+#: YupanaActivity.py:165
+msgid "three row"
+msgstr "tre rækker"
+
+#: YupanaActivity.py:168
+msgid "five row"
+msgstr "fem rækker"
+
+#: YupanaActivity.py:173
+msgid "base"
+msgstr "grundtal"
+
+#: YupanaActivity.py:177
+msgid "Reload custom values."
+msgstr "Genindlæs brugerdefinerede værdier."
